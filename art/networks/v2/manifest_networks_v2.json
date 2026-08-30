@@ -1,0 +1,1382 @@
+[
+  {
+    "slug": "a-e",
+    "title": "A&E",
+    "tmdb_id": 129,
+    "tagline": "REAL LIFE STORIES & DRAMA",
+    "accent": [
+      216,
+      99,
+      53
+    ],
+    "secondary": [
+      195,
+      167,
+      77
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "a-e_ghost_base.png",
+        "hover": "a-e_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/a-e/a-e-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/a-e/a-e-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "a-e_obsidian_base.png",
+        "hover": "a-e_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/a-e/a-e-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/a-e/a-e-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "a-e_prism_base.png",
+        "hover": "a-e_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/a-e/a-e-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/a-e/a-e-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "a-e_glass_base.png",
+        "hover": "a-e_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/a-e/a-e-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/a-e/a-e-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "abc",
+    "title": "ABC",
+    "tmdb_id": 2,
+    "tagline": "BROADCAST & DRAMA",
+    "accent": [
+      75,
+      132,
+      216
+    ],
+    "secondary": [
+      101,
+      93,
+      195
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "abc_ghost_base.png",
+        "hover": "abc_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/abc/abc-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/abc/abc-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "abc_obsidian_base.png",
+        "hover": "abc_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/abc/abc-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/abc/abc-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "abc_prism_base.png",
+        "hover": "abc_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/abc/abc-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/abc/abc-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "abc_glass_base.png",
+        "hover": "abc_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/abc/abc-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/abc/abc-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "adult-swim",
+    "title": "Adult Swim",
+    "tmdb_id": 80,
+    "tagline": "LATE NIGHT & ANIME",
+    "accent": [
+      216,
+      1,
+      0
+    ],
+    "secondary": [
+      195,
+      114,
+      39
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "adult-swim_ghost_base.png",
+        "hover": "adult-swim_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/adult-swim/adult-swim-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/adult-swim/adult-swim-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "adult-swim_obsidian_base.png",
+        "hover": "adult-swim_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/adult-swim/adult-swim-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/adult-swim/adult-swim-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "adult-swim_prism_base.png",
+        "hover": "adult-swim_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/adult-swim/adult-swim-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/adult-swim/adult-swim-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "adult-swim_glass_base.png",
+        "hover": "adult-swim_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/adult-swim/adult-swim-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/adult-swim/adult-swim-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "amc",
+    "title": "AMC",
+    "tmdb_id": 174,
+    "tagline": "PREMIERE SCRIPTED DRAMA",
+    "accent": [
+      216,
+      201,
+      75
+    ],
+    "secondary": [
+      157,
+      195,
+      93
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "amc_ghost_base.png",
+        "hover": "amc_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/amc/amc-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/amc/amc-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "amc_obsidian_base.png",
+        "hover": "amc_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/amc/amc-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/amc/amc-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "amc_prism_base.png",
+        "hover": "amc_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/amc/amc-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/amc/amc-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "amc_glass_base.png",
+        "hover": "amc_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/amc/amc-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/amc/amc-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "bbc-one",
+    "title": "BBC One",
+    "tmdb_id": 4,
+    "tagline": "BRITISH BROADCASTING",
+    "accent": [
+      216,
+      125,
+      75
+    ],
+    "secondary": [
+      195,
+      178,
+      93
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "bbc-one_ghost_base.png",
+        "hover": "bbc-one_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/bbc-one/bbc-one-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/bbc-one/bbc-one-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "bbc-one_obsidian_base.png",
+        "hover": "bbc-one_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/bbc-one/bbc-one-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/bbc-one/bbc-one-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "bbc-one_prism_base.png",
+        "hover": "bbc-one_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/bbc-one/bbc-one-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/bbc-one/bbc-one-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "bbc-one_glass_base.png",
+        "hover": "bbc-one_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/bbc-one/bbc-one-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/bbc-one/bbc-one-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "bravo",
+    "title": "Bravo",
+    "tmdb_id": 74,
+    "tagline": "UNSCRIPTED REALITY & DRAMA",
+    "accent": [
+      80,
+      43,
+      216
+    ],
+    "secondary": [
+      157,
+      69,
+      195
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "bravo_ghost_base.png",
+        "hover": "bravo_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/bravo/bravo-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/bravo/bravo-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "bravo_obsidian_base.png",
+        "hover": "bravo_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/bravo/bravo-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/bravo/bravo-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "bravo_prism_base.png",
+        "hover": "bravo_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/bravo/bravo-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/bravo/bravo-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "bravo_glass_base.png",
+        "hover": "bravo_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/bravo/bravo-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/bravo/bravo-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "cartoon-network",
+    "title": "Cartoon Network",
+    "tmdb_id": 56,
+    "tagline": "ANIMATED ADVENTURES",
+    "accent": [
+      181,
+      216,
+      72
+    ],
+    "secondary": [
+      119,
+      195,
+      91
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "cartoon-network_ghost_base.png",
+        "hover": "cartoon-network_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/cartoon-network/cartoon-network-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/cartoon-network/cartoon-network-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "cartoon-network_obsidian_base.png",
+        "hover": "cartoon-network_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/cartoon-network/cartoon-network-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/cartoon-network/cartoon-network-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "cartoon-network_prism_base.png",
+        "hover": "cartoon-network_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/cartoon-network/cartoon-network-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/cartoon-network/cartoon-network-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "cartoon-network_glass_base.png",
+        "hover": "cartoon-network_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/cartoon-network/cartoon-network-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/cartoon-network/cartoon-network-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "cbs",
+    "title": "CBS",
+    "tmdb_id": 16,
+    "tagline": "AMERICA'S NETWORK",
+    "accent": [
+      216,
+      125,
+      75
+    ],
+    "secondary": [
+      195,
+      178,
+      93
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "cbs_ghost_base.png",
+        "hover": "cbs_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/cbs/cbs-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/cbs/cbs-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "cbs_obsidian_base.png",
+        "hover": "cbs_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/cbs/cbs-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/cbs/cbs-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "cbs_prism_base.png",
+        "hover": "cbs_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/cbs/cbs-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/cbs/cbs-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "cbs_glass_base.png",
+        "hover": "cbs_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/cbs/cbs-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/cbs/cbs-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "channel-4",
+    "title": "Channel 4",
+    "tmdb_id": 26,
+    "tagline": "BRITISH COMEDY & DRAMA",
+    "accent": [
+      135,
+      255,
+      89
+    ],
+    "secondary": [
+      110,
+      229,
+      134
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "channel-4_ghost_base.png",
+        "hover": "channel-4_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/channel-4/channel-4-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/channel-4/channel-4-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "channel-4_obsidian_base.png",
+        "hover": "channel-4_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/channel-4/channel-4-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/channel-4/channel-4-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "channel-4_prism_base.png",
+        "hover": "channel-4_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/channel-4/channel-4-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/channel-4/channel-4-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "channel-4_glass_base.png",
+        "hover": "channel-4_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/channel-4/channel-4-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/channel-4/channel-4-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "comedy-central",
+    "title": "Comedy Central",
+    "tmdb_id": 47,
+    "tagline": "STAND-UP & SATIRE",
+    "accent": [
+      216,
+      111,
+      75
+    ],
+    "secondary": [
+      195,
+      168,
+      93
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "comedy-central_ghost_base.png",
+        "hover": "comedy-central_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/comedy-central/comedy-central-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/comedy-central/comedy-central-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "comedy-central_obsidian_base.png",
+        "hover": "comedy-central_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/comedy-central/comedy-central-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/comedy-central/comedy-central-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "comedy-central_prism_base.png",
+        "hover": "comedy-central_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/comedy-central/comedy-central-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/comedy-central/comedy-central-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "comedy-central_glass_base.png",
+        "hover": "comedy-central_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/comedy-central/comedy-central-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/comedy-central/comedy-central-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "discovery",
+    "title": "Discovery",
+    "tmdb_id": 64,
+    "tagline": "EXPEDITION & SCIENCE",
+    "accent": [
+      216,
+      134,
+      75
+    ],
+    "secondary": [
+      195,
+      184,
+      93
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "discovery_ghost_base.png",
+        "hover": "discovery_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/discovery/discovery-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/discovery/discovery-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "discovery_obsidian_base.png",
+        "hover": "discovery_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/discovery/discovery-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/discovery/discovery-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "discovery_prism_base.png",
+        "hover": "discovery_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/discovery/discovery-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/discovery/discovery-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "discovery_glass_base.png",
+        "hover": "discovery_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/discovery/discovery-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/discovery/discovery-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "disney-channel",
+    "title": "Disney Channel",
+    "tmdb_id": 54,
+    "tagline": "ORIGINAL FAMILY SERIES",
+    "accent": [
+      14,
+      216,
+      81
+    ],
+    "secondary": [
+      49,
+      195,
+      167
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "disney-channel_ghost_base.png",
+        "hover": "disney-channel_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/disney-channel/disney-channel-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/disney-channel/disney-channel-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "disney-channel_obsidian_base.png",
+        "hover": "disney-channel_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/disney-channel/disney-channel-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/disney-channel/disney-channel-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "disney-channel_prism_base.png",
+        "hover": "disney-channel_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/disney-channel/disney-channel-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/disney-channel/disney-channel-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "disney-channel_glass_base.png",
+        "hover": "disney-channel_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/disney-channel/disney-channel-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/disney-channel/disney-channel-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "fox",
+    "title": "FOX",
+    "tmdb_id": 19,
+    "tagline": "PRIMETIME ENTERTAINMENT",
+    "accent": [
+      245,
+      197,
+      20
+    ],
+    "secondary": [
+      176,
+      220,
+      59
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "fox_ghost_base.png",
+        "hover": "fox_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/fox/fox-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/fox/fox-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "fox_obsidian_base.png",
+        "hover": "fox_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/fox/fox-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/fox/fox-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "fox_prism_base.png",
+        "hover": "fox_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/fox/fox-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/fox/fox-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "fox_glass_base.png",
+        "hover": "fox_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/fox/fox-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/fox/fox-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "fx",
+    "title": "FX",
+    "tmdb_id": 88,
+    "tagline": "ACCLAIMED DRAMA & COMEDY",
+    "accent": [
+      223,
+      166,
+      42
+    ],
+    "secondary": [
+      178,
+      200,
+      70
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "fx_ghost_base.png",
+        "hover": "fx_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/fx/fx-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/fx/fx-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "fx_obsidian_base.png",
+        "hover": "fx_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/fx/fx-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/fx/fx-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "fx_prism_base.png",
+        "hover": "fx_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/fx/fx-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/fx/fx-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "fx_glass_base.png",
+        "hover": "fx_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/fx/fx-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/fx/fx-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "hbo",
+    "title": "HBO",
+    "tmdb_id": 49,
+    "tagline": "PRESTIGE ORIGINAL SERIES",
+    "accent": [
+      75,
+      208,
+      216
+    ],
+    "secondary": [
+      93,
+      140,
+      195
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "hbo_ghost_base.png",
+        "hover": "hbo_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/hbo/hbo-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/hbo/hbo-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "hbo_obsidian_base.png",
+        "hover": "hbo_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/hbo/hbo-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/hbo/hbo-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "hbo_prism_base.png",
+        "hover": "hbo_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/hbo/hbo-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/hbo/hbo-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "hbo_glass_base.png",
+        "hover": "hbo_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/hbo/hbo-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/hbo/hbo-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "hgtv",
+    "title": "HGTV",
+    "tmdb_id": 210,
+    "tagline": "HOME & LIFESTYLE",
+    "accent": [
+      0,
+      188,
+      216
+    ],
+    "secondary": [
+      39,
+      99,
+      195
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "hgtv_ghost_base.png",
+        "hover": "hgtv_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/hgtv/hgtv-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/hgtv/hgtv-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "hgtv_obsidian_base.png",
+        "hover": "hgtv_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/hgtv/hgtv-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/hgtv/hgtv-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "hgtv_prism_base.png",
+        "hover": "hgtv_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/hgtv/hgtv-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/hgtv/hgtv-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "hgtv_glass_base.png",
+        "hover": "hgtv_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/hgtv/hgtv-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/hgtv/hgtv-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "history",
+    "title": "History",
+    "tmdb_id": 65,
+    "tagline": "CIVILIZATIONS & SAGA",
+    "accent": [
+      239,
+      181,
+      38
+    ],
+    "secondary": [
+      187,
+      215,
+      71
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "history_ghost_base.png",
+        "hover": "history_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/history/history-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/history/history-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "history_obsidian_base.png",
+        "hover": "history_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/history/history-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/history/history-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "history_prism_base.png",
+        "hover": "history_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/history/history-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/history/history-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "history_glass_base.png",
+        "hover": "history_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/history/history-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/history/history-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "mtv",
+    "title": "MTV",
+    "tmdb_id": 33,
+    "tagline": "MUSIC & POP CULTURE",
+    "accent": [
+      216,
+      0,
+      75
+    ],
+    "secondary": [
+      195,
+      59,
+      39
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "mtv_ghost_base.png",
+        "hover": "mtv_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/mtv/mtv-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/mtv/mtv-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "mtv_obsidian_base.png",
+        "hover": "mtv_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/mtv/mtv-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/mtv/mtv-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "mtv_prism_base.png",
+        "hover": "mtv_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/mtv/mtv-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/mtv/mtv-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "mtv_glass_base.png",
+        "hover": "mtv_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/mtv/mtv-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/mtv/mtv-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "national-geographic",
+    "title": "National Geographic",
+    "tmdb_id": 43,
+    "tagline": "EXPLORATION & NATURE",
+    "accent": [
+      255,
+      207,
+      0
+    ],
+    "secondary": [
+      175,
+      229,
+      45
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "national-geographic_ghost_base.png",
+        "hover": "national-geographic_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/national-geographic/national-geographic-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/national-geographic/national-geographic-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "national-geographic_obsidian_base.png",
+        "hover": "national-geographic_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/national-geographic/national-geographic-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/national-geographic/national-geographic-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "national-geographic_prism_base.png",
+        "hover": "national-geographic_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/national-geographic/national-geographic-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/national-geographic/national-geographic-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "national-geographic_glass_base.png",
+        "hover": "national-geographic_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/national-geographic/national-geographic-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/national-geographic/national-geographic-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "nbc",
+    "title": "NBC",
+    "tmdb_id": 6,
+    "tagline": "MUST SEE TV",
+    "accent": [
+      216,
+      0,
+      80
+    ],
+    "secondary": [
+      195,
+      55,
+      39
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "nbc_ghost_base.png",
+        "hover": "nbc_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/nbc/nbc-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/nbc/nbc-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "nbc_obsidian_base.png",
+        "hover": "nbc_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/nbc/nbc-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/nbc/nbc-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "nbc_prism_base.png",
+        "hover": "nbc_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/nbc/nbc-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/nbc/nbc-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "nbc_glass_base.png",
+        "hover": "nbc_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/nbc/nbc-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/nbc/nbc-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "nickelodeon",
+    "title": "Nickelodeon",
+    "tmdb_id": 13,
+    "tagline": "ANIMATION & KIDS",
+    "accent": [
+      255,
+      103,
+      0
+    ],
+    "secondary": [
+      229,
+      208,
+      45
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "nickelodeon_ghost_base.png",
+        "hover": "nickelodeon_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/nickelodeon/nickelodeon-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/nickelodeon/nickelodeon-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "nickelodeon_obsidian_base.png",
+        "hover": "nickelodeon_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/nickelodeon/nickelodeon-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/nickelodeon/nickelodeon-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "nickelodeon_prism_base.png",
+        "hover": "nickelodeon_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/nickelodeon/nickelodeon-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/nickelodeon/nickelodeon-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "nickelodeon_glass_base.png",
+        "hover": "nickelodeon_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/nickelodeon/nickelodeon-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/nickelodeon/nickelodeon-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "pbs",
+    "title": "PBS",
+    "tmdb_id": 14,
+    "tagline": "PUBLIC BROADCASTING",
+    "accent": [
+      16,
+      37,
+      216
+    ],
+    "secondary": [
+      104,
+      50,
+      195
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "pbs_ghost_base.png",
+        "hover": "pbs_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/pbs/pbs-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/pbs/pbs-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "pbs_obsidian_base.png",
+        "hover": "pbs_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/pbs/pbs-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/pbs/pbs-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "pbs_prism_base.png",
+        "hover": "pbs_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/pbs/pbs-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/pbs/pbs-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "pbs_glass_base.png",
+        "hover": "pbs_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/pbs/pbs-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/pbs/pbs-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "showtime",
+    "title": "Showtime",
+    "tmdb_id": 67,
+    "tagline": "PREMIUM ORIGINAL DRAMA",
+    "accent": [
+      255,
+      0,
+      14
+    ],
+    "secondary": [
+      229,
+      123,
+      45
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "showtime_ghost_base.png",
+        "hover": "showtime_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/showtime/showtime-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/showtime/showtime-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "showtime_obsidian_base.png",
+        "hover": "showtime_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/showtime/showtime-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/showtime/showtime-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "showtime_prism_base.png",
+        "hover": "showtime_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/showtime/showtime-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/showtime/showtime-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "showtime_glass_base.png",
+        "hover": "showtime_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/showtime/showtime-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/showtime/showtime-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "starz",
+    "title": "STARZ",
+    "tmdb_id": 318,
+    "tagline": "ORIGINAL HIT SERIES",
+    "accent": [
+      84,
+      241,
+      224
+    ],
+    "secondary": [
+      104,
+      174,
+      216
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "starz_ghost_base.png",
+        "hover": "starz_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/starz/starz-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/starz/starz-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "starz_obsidian_base.png",
+        "hover": "starz_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/starz/starz-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/starz/starz-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "starz_prism_base.png",
+        "hover": "starz_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/starz/starz-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/starz/starz-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "starz_glass_base.png",
+        "hover": "starz_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/starz/starz-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/starz/starz-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "syfy",
+    "title": "Syfy",
+    "tmdb_id": 77,
+    "tagline": "SCI-FI & FANTASY",
+    "accent": [
+      113,
+      56,
+      216
+    ],
+    "secondary": [
+      176,
+      79,
+      195
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "syfy_ghost_base.png",
+        "hover": "syfy_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/syfy/syfy-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/syfy/syfy-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "syfy_obsidian_base.png",
+        "hover": "syfy_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/syfy/syfy-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/syfy/syfy-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "syfy_prism_base.png",
+        "hover": "syfy_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/syfy/syfy-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/syfy/syfy-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "syfy_glass_base.png",
+        "hover": "syfy_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/syfy/syfy-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/syfy/syfy-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "tbs",
+    "title": "TBS",
+    "tmdb_id": 68,
+    "tagline": "VERY FUNNY COMEDY",
+    "accent": [
+      217,
+      254,
+      50
+    ],
+    "secondary": [
+      131,
+      228,
+      82
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "tbs_ghost_base.png",
+        "hover": "tbs_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/tbs/tbs-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/tbs/tbs-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "tbs_obsidian_base.png",
+        "hover": "tbs_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/tbs/tbs-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/tbs/tbs-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "tbs_prism_base.png",
+        "hover": "tbs_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/tbs/tbs-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/tbs/tbs-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "tbs_glass_base.png",
+        "hover": "tbs_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/tbs/tbs-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/tbs/tbs-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "the-cw",
+    "title": "The CW",
+    "tmdb_id": 71,
+    "tagline": "DRAMA & SCI-FI SAGAS",
+    "accent": [
+      255,
+      67,
+      0
+    ],
+    "secondary": [
+      229,
+      182,
+      45
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "the-cw_ghost_base.png",
+        "hover": "the-cw_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/the-cw/the-cw-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/the-cw/the-cw-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "the-cw_obsidian_base.png",
+        "hover": "the-cw_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/the-cw/the-cw-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/the-cw/the-cw-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "the-cw_prism_base.png",
+        "hover": "the-cw_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/the-cw/the-cw-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/the-cw/the-cw-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "the-cw_glass_base.png",
+        "hover": "the-cw_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/the-cw/the-cw-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/the-cw/the-cw-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "tlc",
+    "title": "TLC",
+    "tmdb_id": 84,
+    "tagline": "REAL STORIES & RELATIONSHIPS",
+    "accent": [
+      237,
+      17,
+      5
+    ],
+    "secondary": [
+      213,
+      135,
+      46
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "tlc_ghost_base.png",
+        "hover": "tlc_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/tlc/tlc-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/tlc/tlc-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "tlc_obsidian_base.png",
+        "hover": "tlc_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/tlc/tlc-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/tlc/tlc-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "tlc_prism_base.png",
+        "hover": "tlc_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/tlc/tlc-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/tlc/tlc-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "tlc_glass_base.png",
+        "hover": "tlc_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/tlc/tlc-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/tlc/tlc-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "tnt",
+    "title": "TNT",
+    "tmdb_id": 41,
+    "tagline": "ACTION & BLOCKBUSTERS",
+    "accent": [
+      75,
+      111,
+      216
+    ],
+    "secondary": [
+      116,
+      93,
+      195
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "tnt_ghost_base.png",
+        "hover": "tnt_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/tnt/tnt-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/tnt/tnt-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "tnt_obsidian_base.png",
+        "hover": "tnt_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/tnt/tnt-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/tnt/tnt-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "tnt_prism_base.png",
+        "hover": "tnt_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/tnt/tnt-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/tnt/tnt-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "tnt_glass_base.png",
+        "hover": "tnt_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/tnt/tnt-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/tnt/tnt-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "usa-network",
+    "title": "USA Network",
+    "tmdb_id": 30,
+    "tagline": "CHARACTER DRIVEN HITS",
+    "accent": [
+      248,
+      26,
+      26
+    ],
+    "secondary": [
+      223,
+      140,
+      63
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "usa-network_ghost_base.png",
+        "hover": "usa-network_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/usa-network/usa-network-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/usa-network/usa-network-hover.png"
+      },
+      "obsidian": {
+        "name": "Obsidian Studio",
+        "base": "usa-network_obsidian_base.png",
+        "hover": "usa-network_obsidian_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/usa-network/usa-network-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/obsidian-studio/usa-network/usa-network-hover.png"
+      },
+      "prism": {
+        "name": "Prism Aura",
+        "base": "usa-network_prism_base.png",
+        "hover": "usa-network_prism_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/usa-network/usa-network-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/prism-aura/usa-network/usa-network-hover.png"
+      },
+      "glass": {
+        "name": "Frosted Glass",
+        "base": "usa-network_glass_base.png",
+        "hover": "usa-network_glass_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/usa-network/usa-network-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/usa-network/usa-network-hover.png"
+      }
+    }
+  }
+]
