@@ -3126,5 +3126,305 @@
         "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/frosted-glass/jtbc/jtbc-hover.png"
       }
     }
+  },
+  {
+    "slug": "we-tv",
+    "title": "WE tv",
+    "tmdb_id": 448,
+    "tagline": "REAL STORIES & RELATIONSHIPS",
+    "accent": [
+      103,
+      178,
+      232
+    ],
+    "secondary": [
+      245,
+      180,
+      20
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "we-tv_ghost_base.png",
+        "hover": "we-tv_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/we-tv/we-tv-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/we-tv/we-tv-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "vice-tv",
+    "title": "Vice TV",
+    "tmdb_id": 3706,
+    "tagline": "CULTURE, INVESTIGATION & UNFILTERED DOCS",
+    "accent": [
+      255,
+      215,
+      0
+    ],
+    "secondary": [
+      20,
+      20,
+      20
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "vice-tv_ghost_base.png",
+        "hover": "vice-tv_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/vice-tv/vice-tv-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/vice-tv/vice-tv-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "bbc-america",
+    "title": "BBC America",
+    "tmdb_id": 493,
+    "tagline": "BRITISH DRAMA, SCI-FI & NATURE",
+    "accent": [
+      220,
+      30,
+      30
+    ],
+    "secondary": [
+      180,
+      180,
+      180
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "bbc-america_ghost_base.png",
+        "hover": "bbc-america_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/bbc-america/bbc-america-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/bbc-america/bbc-america-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "game-show-network",
+    "title": "Game Show Network",
+    "tmdb_id": 252,
+    "tagline": "CLASSIC & MODERN GAME SHOWS",
+    "accent": [
+      220,
+      50,
+      45
+    ],
+    "secondary": [
+      180,
+      180,
+      180
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "game-show-network_ghost_base.png",
+        "hover": "game-show-network_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/game-show-network/game-show-network-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/game-show-network/game-show-network-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "magnolia-network",
+    "title": "Magnolia Network",
+    "tmdb_id": 4586,
+    "tagline": "HOME, DESIGN & CULINARY INSPIRATION",
+    "accent": [
+      210,
+      180,
+      140
+    ],
+    "secondary": [
+      180,
+      180,
+      180
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "magnolia-network_ghost_base.png",
+        "hover": "magnolia-network_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/magnolia-network/magnolia-network-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/magnolia-network/magnolia-network-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "cooking-channel",
+    "title": "Cooking Channel",
+    "tmdb_id": 506,
+    "tagline": "GLOBAL CUISINE & CULINARY MASTERS",
+    "accent": [
+      240,
+      120,
+      30
+    ],
+    "secondary": [
+      180,
+      180,
+      180
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "cooking-channel_ghost_base.png",
+        "hover": "cooking-channel_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/cooking-channel/cooking-channel-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/cooking-channel/cooking-channel-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "nat-geo-wild",
+    "title": "Nat Geo Wild",
+    "tmdb_id": 443,
+    "tagline": "UNTAMED WILDLIFE & EARTH EXPLORATION",
+    "accent": [
+      255,
+      204,
+      0
+    ],
+    "secondary": [
+      180,
+      180,
+      180
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "nat-geo-wild_ghost_base.png",
+        "hover": "nat-geo-wild_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/nat-geo-wild/nat-geo-wild-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/nat-geo-wild/nat-geo-wild-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "smithsonian-channel",
+    "title": "Smithsonian Channel",
+    "tmdb_id": 658,
+    "tagline": "HISTORY, SCIENCE & CULTURAL HERITAGE",
+    "accent": [
+      212,
+      160,
+      23
+    ],
+    "secondary": [
+      180,
+      180,
+      180
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "smithsonian-channel_ghost_base.png",
+        "hover": "smithsonian-channel_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/smithsonian-channel/smithsonian-channel-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/smithsonian-channel/smithsonian-channel-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "science-channel",
+    "title": "Science Channel",
+    "tmdb_id": 95,
+    "tagline": "COSMOS, ENGINEERING & SCIENTIFIC DISCOVERY",
+    "accent": [
+      30,
+      144,
+      255
+    ],
+    "secondary": [
+      180,
+      180,
+      180
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "science-channel_ghost_base.png",
+        "hover": "science-channel_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/science-channel/science-channel-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/science-channel/science-channel-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "metv",
+    "title": "MeTV",
+    "tmdb_id": 1618,
+    "tagline": "MEMORABLE ENTERTAINMENT TELEVISION",
+    "accent": [
+      245,
+      185,
+      40
+    ],
+    "secondary": [
+      180,
+      180,
+      180
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "metv_ghost_base.png",
+        "hover": "metv_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/metv/metv-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/metv/metv-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "motortrend",
+    "title": "MotorTrend",
+    "tmdb_id": 2470,
+    "tagline": "AUTOMOTIVE CULTURE & SPEED",
+    "accent": [
+      225,
+      35,
+      35
+    ],
+    "secondary": [
+      180,
+      180,
+      180
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "motortrend_ghost_base.png",
+        "hover": "motortrend_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/motortrend/motortrend-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/motortrend/motortrend-hover.png"
+      }
+    }
+  },
+  {
+    "slug": "hallmark-mystery",
+    "title": "Hallmark Mystery",
+    "tmdb_id": 2024,
+    "tagline": "COZY SLEUTHS & WHODUNIT MYSTERIES",
+    "accent": [
+      150,
+      60,
+      180
+    ],
+    "secondary": [
+      180,
+      180,
+      180
+    ],
+    "styles": {
+      "ghost": {
+        "name": "Cinematic Ghost",
+        "base": "hallmark-mystery_ghost_base.png",
+        "hover": "hallmark-mystery_ghost_hover.png",
+        "prod_cover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/hallmark-mystery/hallmark-mystery-cover.png",
+        "prod_hover_url": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/networks/v2/cinematic-ghost/hallmark-mystery/hallmark-mystery-hover.png"
+      }
+    }
   }
 ]
